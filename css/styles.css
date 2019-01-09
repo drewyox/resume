@@ -1,0 +1,30 @@
+.work{
+  font-size: 20px;
+  font-family: serif;
+}
+
+.education{
+  color: blue;
+}
+
+.skills {
+  background-color: black;
+  color:white;
+  font-weight: bold;
+}
+
+
+.work1{
+  font-style: italic;
+  font-weight: 400;
+}
+
+.education1 {
+  font-style: oblique;
+  color: gold;
+}
+
+.skills1 {
+  background-color: blue;
+  font-family: cursive;
+}
